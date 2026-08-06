@@ -567,20 +567,6 @@ This project can be further enhanced by:
 
 ---
 
-# Internship Level Completion
-
-**Status:** Completed
-
-The following Level 1 tasks from the Cognifyz Technologies Data Science Internship were successfully completed:
-
-| Task | Status |
-|------|:------:|
-| Data Exploration & Preprocessing |
-| Descriptive Analysis |
-| Geospatial Analysis |
-
----
-
 # Author
 
 **Anirban Garai**
