@@ -76,6 +76,12 @@ This dataset provides valuable information for performing exploratory data analy
 ```text
 DataScience-Level1-DataExploration/
 │
+├── images/
+│   ├── dataset-preview.png
+│   ├── aggregate-rating-distribution.png
+│   ├── top-cities-analysis.png
+│   └── geospatial-analysis.png
+│
 ├── Dataset.csv
 ├── Level_1_Data_Exploration.ipynb
 └── README.md
@@ -83,11 +89,12 @@ DataScience-Level1-DataExploration/
 
 ### Repository Contents
 
-| File | Description |
-|------|-------------|
-| `Level_1_Data_Exploration.ipynb` | Complete Level 1 notebook containing exploratory data analysis and geospatial analysis. |
-| `Dataset.csv` | Restaurant dataset used throughout the project. |
-| `README.md` | Project documentation, workflow, and analysis summary. |
+| File / Folder | Description |
+|---------------|-------------|
+| `images/` | Contains screenshots of important outputs, visualizations, and analysis results used in this project. |
+| `Level_1_Data_Exploration.ipynb` | Complete Level 1 notebook containing exploratory data analysis, descriptive statistics, and geospatial analysis. |
+| `Dataset.csv` | Zomato restaurant dataset used throughout the project. |
+| `README.md` | Complete project documentation, workflow, implementation details, and key findings. |
 
 ---
 
