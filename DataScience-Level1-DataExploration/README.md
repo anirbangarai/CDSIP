@@ -409,7 +409,45 @@ The visualizations include:
 These visualizations simplify complex information and make business insights easier to interpret.
 
 ---
+# Project Screenshots
 
+### Dataset Preview
+
+The initial rows of the dataset provide an overview of the available restaurant information and feature structure.
+
+<p align="center">
+  <img src="images/dataset-preview.png" width="900">
+</p>
+
+---
+
+### Aggregate Rating Distribution
+
+Visualization showing the distribution of restaurant ratings across the dataset.
+
+<p align="center">
+  <img src="images/aggregate-rating-distribution.png" width="900">
+</p>
+
+---
+
+### Top Cities Analysis
+
+Distribution of restaurants across the most represented cities.
+
+<p align="center">
+  <img src="images/top-cities-analysis.png" width="900">
+</p>
+
+---
+
+### Geospatial Analysis
+
+Visualization illustrating the geographical distribution of restaurants using latitude and longitude.
+
+<p align="center">
+  <img src="images/geospatial-analysis.png" width="900">
+</p>
 ---
 
 # Business Insights
