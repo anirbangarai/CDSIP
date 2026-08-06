@@ -409,6 +409,7 @@ The visualizations include:
 These visualizations simplify complex information and make business insights easier to interpret.
 
 ---
+
 # Project Screenshots
 
 ### Dataset Preview
@@ -448,6 +449,7 @@ Visualization illustrating the geographical distribution of restaurants using la
 <p align="center">
   <img src="images/geospatial-analysis.png" width="900">
 </p>
+
 ---
 
 # Business Insights
